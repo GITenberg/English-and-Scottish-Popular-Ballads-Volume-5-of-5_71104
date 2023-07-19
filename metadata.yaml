@@ -1,0 +1,26 @@
+_repo: English-and-Scottish-Popular-Ballads-Volume-5-of-5_71104
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Child, Francis James
+    alias: Child, F. J. (Francis James)
+    birthdate: 1825
+    deathdate: 1896
+    gutenberg_agent_id: '38603'
+    url: http://www.gutenberg.org/2009/agents/38603
+    wikipedia: http://en.wikipedia.org/wiki/Francis_James_Child
+description: ''
+gutenberg_issued: '2023-07-03'
+identifiers:
+  gutenberg: '71104'
+language: en
+production_note: WebRover, SF2001, Alicia Williams, Jude Eylander for music transcription,
+  and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $bDover Publications, Inc.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: English and Scottish Popular Ballads, Volume 5 (of 5)
+url: http://www.gutenberg.org/ebooks/71104
